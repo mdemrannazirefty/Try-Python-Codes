@@ -1,0 +1,5 @@
+jupyter notebook --notebook-dir="E:\\Others\\Try Python Codes"
+
+E:\Others\Try Python Codes\Jupyter Code
+
+C:\Users\mdemr\anaconda3\python.exe C:\Users\mdemr\anaconda3\cwp.py C:\Users\mdemr\anaconda3 C:\Users\mdemr\anaconda3\python.exe C:\Users\mdemr\anaconda3\Scripts\jupyter-notebook-script.py "%USERPROFILE%/"

@@ -1,0 +1,10 @@
+{
+    "Name": "name",
+    "Age": 50,
+    "Email": "email",
+    "hasChildren": false,
+    "Title": [
+        "address",
+        "engineer"
+    ]
+}

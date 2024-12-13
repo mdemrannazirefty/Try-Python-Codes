@@ -1,0 +1,71 @@
+**web development**
+-Django
+-Flask
+-FastAPI
+-requests
+
+**DAta Manipulation and Analysis**
+-pandas
+-Numpy
+-seaborn 
+
+**MAchine Learning And AI**
+-scikit-learn
+-TensorFlow
+-PyTorch
+-keras
+
+**Data Science and Scientific Computing**
+-scipy
+-jupyter
+-symPy
+
+**DataBAse Interaction**
+-SQLAlchemy
+-Psycopg2
+-MyMySQL
+
+
+**Testing**
+-pytest
+-unittest
+-tox
+    
+-requests
+    
+**Task Automation and Scripting**
+-celery
+-invoke
+
+**Api and parsong**
+-BeautifulSoup
+-Scrapy
+-lxmlI
+
+**File Handling And I/o**
+-watchlog
+-pathlib
+
+**Security and authentication**
+-bcrypt
+-passlib
+-PyJWT
+    
+**Concurrrency and parallelism**
+-asyncio
+-multiprocessing
+
+**Development and debbing tools**
+-ipdb
+-black
+
+**command line interface**
+-Click
+
+ **Environment Management**
+-virtualenv
+-pipenu
+
+**Logging and monitoring**
+-loguru
+-sentry SDK

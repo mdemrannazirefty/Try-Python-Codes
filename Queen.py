@@ -13,9 +13,7 @@ def printMatrix(m):
 
 print()
 
-f=open("udgraph.txt","r")
-line=f.readline()
-l=line.split()
+
 n=int(l[0])
 m=int(l[1])
 
@@ -32,10 +30,3 @@ for i in range(m):
     adj_matrix[u][v]=1
     adj_matrix[u][v]=1
 printMatrix(adj_matrix)
-
-import queue
-def bfs(G,S):
-    q=queue.Queue()
-    visited=[0]*n
-    print(visited)
-bfs(matrix,0,n)
